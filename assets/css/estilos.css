@@ -1,0 +1,10 @@
+body{
+  background-color:rgb(236, 131, 224);
+  margin:auto;
+
+}
+#mostrar{
+  text-align: center;
+  font-family:'Courier New', Courier, monospace;
+  background-color:rgb(107, 217, 217);
+}
